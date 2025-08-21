@@ -60,13 +60,23 @@
 
 
 ## 🚀 개발 진행 상황
-- [ ] 네이버 스토어의 사이트 구조도 작성
-- [ ] 사이트 구조도 내의 개별 기능 설계서 작성
-- [ ] 네이버 스토어의 구조를 참고하여 ProductCurator의 사이트 구조도 및 개별 기능 설계서 작성
-- [ ] MSA로 구현하기 위해 나누어야 할 서비스 분류
-- [ ] 각 서비스 별 Github 페이지 생성 및 Readme 작성
-- [ ] 각 서비스별 개별 동작 테스트
-- [ ] 서비스 통합 테스트
+- [ ] UML Package Diagram: 전체 시스템 구조도 작성
+- [ ] UML Class Diagram: 개별 서비스 구조도 작성
+- [ ] UML Sequence Diagram: 서비스 간 상호작용 구조도 작성
+- [ ] API Swagger: API 명세서 작성
+
+## 구현해야 할 서비스
+- [ ] User Service: 사용자 관리 서비스
+- [ ] Product Service: 상품 관리 서비스
+- [ ] Order Service: 주문 관리 서비스
+- [ ] Recommendation Service: 추천 서비스 구현
+
+## 공부해야 할 내용
+- [ ] aws 서버 호스팅 방법
+- [ ] Gateway 개념 및 사용법 공부
+- [ ] Gateway 서비스 구현 및 도입
+- [ ] 각 서비스별 개별 동작 테스트 방법
+- [ ] 서비스 통합 테스트 방법
 
 
 ## 🔮 향후 계획
